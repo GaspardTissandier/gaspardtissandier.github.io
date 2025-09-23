@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can find my full resume [here](https://gaspardtissandier.github.io/files/Resume_2025.pdf)
+
 {% include base_path %}
 
 Education
