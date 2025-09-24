@@ -3,8 +3,9 @@ title: "PAVED With Good Intentions? An Evaluation of a French Police Predictive 
 collection: publications
 category: manuscripts
 permalink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5234412
-excerpt: 'From late 2017 to early 2019, one of the two french law enforcement agencies (the Gendarmerie) tested in 11 out of 101 departments a predictive policing system named PAVED. The system designed by the Gendarmerie predicts burglaries and vehicle thefts with the stated objective of better allocating patrols and thus increasing deterrence. We use month-law enforcement jurisdiction area panel data to evaluate whether the system produces the expected reduction in these thefts. Using a TWFE approach and considering several alternative counterfactuals, our results consistently indicate no detectable effect of PAVED on burglaries. With regard to vehicle theft, small variations are observed following the implementation of PAVED, but these variations are not consistent or robust across the different counterfactuals considered.'
+excerpt: '
+R&R at International Review of Law and Economics
+From late 2017 to early 2019, one of the two french law enforcement agencies (the Gendarmerie) tested in 11 out of 101 departments a predictive policing system named PAVED. The system designed by the Gendarmerie predicts burglaries and vehicle thefts with the stated objective of better allocating patrols and thus increasing deterrence. We use month-law enforcement jurisdiction area panel data to evaluate whether the system produces the expected reduction in these thefts. Using a TWFE approach and considering several alternative counterfactuals, our results consistently indicate no detectable effect of PAVED on burglaries. With regard to vehicle theft, small variations are observed following the implementation of PAVED, but these variations are not consistent or robust across the different counterfactuals considered.'
 date: 2025-04-29
-venue: 'Forthcoming'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
