@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Evaluating the Effect of Enhanced LED Street Lighting on Nighttime Violent Crime in Newark, NJ."
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: '
+
+R&R at the Journal of Quantitative Criminology
+This study examines the deterrent effect of enhanced street lighting on nighttime violent crime in Newark, NJ, where high-pressure sodium lights were replaced with LED fixtures between 2019 and 2021. Using a quasi-experimental design with Difference-in-Difference setting and the 2021 Gardner estimator, we assess the impact of approximately 1,500 streetlight upgrades. Results show a significant short-term reduction in nighttime and outdoor violent crime of approximately 50% in the first two quarters post-replacement; the effect is mainly driven by a decrease in aggravated assaults and robberies. However, this effect disappears after two quarters, suggesting an adaptation to the new lighting environment. Long-term analysis doesn't show any significant reduction in violent or property crime in the long run (two years post-replacement).'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: ': Gimenez-Santana, Alejandro; Tissandier, Gaspard, Zlaoui; Khalil, Santos, Adriana; Caplan, Joel; Kennedy, Leslie (2025). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
