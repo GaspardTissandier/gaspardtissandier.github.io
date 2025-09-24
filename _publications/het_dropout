@@ -6,6 +6,6 @@ permalink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5499759
 excerpt: 'For higher education systems with general and vocational degrees, the question of resource allocation for dropout policies is fundamental. In France, the university concentrates most of the focus and resources compared to the vocational track. I estimate the heterogeneous effect of dropping out on labor market outcomes (employment rate and wages), conditional on the student’s degree, to evaluate the validity of this allocation. I use a causal Random Forest methodology to account for the heterogeneous cohort composition of these degrees, with the distance to the closest higher education institution as an instrument for dropout. Using 2SLS leads to underestimating the overall effect of dropping out by 9 percentage points for the employment rate and by 4 percentage points for the average wage. Vocational degree dropouts are more penalized than university dropouts on their average wage but not on their time in employment. Finally, using a multidimensional categorization of students can be beneficial for creating a targeted dropout policy.'
 date: 2024-01-01
 venue: 'Working paper on SSRN'
-citation: 'Tissandier Gaspard. (2024). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Tissandier Gaspard. (2024). The Heterogeneous Effect of Dropping Out for Higher Education Students: The French Case'
 
 ---
