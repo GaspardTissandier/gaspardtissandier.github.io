@@ -13,35 +13,20 @@ You can find my full resume [here](https://gaspardtissandier.github.io/files/Res
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Université Paris 1 - Panthéon Sorbonne, 2023
+* Masters in Economics and Public Policy, Université Paris 1 - Panthéon Sorbonne, 2019
+* Undergrad in Economics, Toulouse School of Economics, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - 2026: Postdoctoral Associate, Rutgers University - School of Criminal Justice (under the supervision of Pr. Alejandro Gimenez-Santana)
+  * Research Manager at the Newark Public Safety Collaborative (NPSC)
+  * Research on place-based crime analysis, crime modelling and machine learning for crime prediction 
+  * Teaching in Artificial Intelligence in Criminal Justice
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019- 2023: Teaching Assistant
+  * Université Paris 1 - Panthéon Sorbonne
+  * Topics: Public Economics, Econometrics, Microeconomics
 
 Publications
 ======
@@ -49,18 +34,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
