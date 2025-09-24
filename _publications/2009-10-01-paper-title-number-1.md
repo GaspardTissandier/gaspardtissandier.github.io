@@ -1,6 +1,5 @@
 ---
-title: "PAVED With Good Intentions? An Evaluation of a French Police Predictive Policing"
-System"
+title: "PAVED With Good Intentions? An Evaluation of a French Police Predictive Policing System"
 collection: publications
 category: manuscripts
 permalink: [PAVED With Good Intentions? An Evaluation of a French Police Predictive Policing (R&R at International Review of Law and Economics)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5234412)
