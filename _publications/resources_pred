@@ -1,0 +1,9 @@
+---
+title: "Resources Misallocation and Predictive Policing: A Data Generation Process"
+collection: publications
+category: wp
+excerpt: 'The use of Machine Learning and Deep Learning methods in data-driven policy making, such as predictive policing, has surged in recent years. This paper explores the connection between misallocation of police resources and the replication in prediction errors due to non-representative data. The study presents a framework where a policy maker allocates police resources to minimize crime in a jurisdiction using predictive models, and addresses two key questions: how misallocation errors in resource allocation can replicate as prediction errors and how to estimate the replication factor between these errors when no closed form expression exists. The paper demonstrates that over-policing in an area amplifies misallocation errors in predictions, creating a feedback loop. In cases involving non-trivial pre-dictive methods, the paper highlights an errors replication pipeline, allowing empirical estimation of the replication factor. The methodology is applied to predict crime levels in New York City.'
+date: 2024
+citation: 'Tissandier Gaspard. (2024). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
+---
