@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my full resume [here](https://gaspardtissandier.github.io/files/Resume_2025.pdf)
+You can find my full resume [here](https://gaspardtissandier.github.io/files/Resume_2026.pdf)
 
 {% include base_path %}
 
@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2026 - 2027: Postdoctoral Scholar, Stanford University - Civil and Environmental Engineering (under the supervision of Pr. Sarah Billington)
+  * Research on ambient environment, built environment, community well-being and crime/disturbances outcomes
+
 * 2023 - 2026: Postdoctoral Associate, Rutgers University - School of Criminal Justice (under the supervision of Pr. Alejandro Gimenez-Santana)
   * Research Manager at the Newark Public Safety Collaborative (NPSC)
   * Research on place-based crime analysis, crime modelling and machine learning for crime prediction 
